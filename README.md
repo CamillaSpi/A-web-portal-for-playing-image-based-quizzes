@@ -12,27 +12,27 @@ All these aspects were achieved through the application of JavaScript, CSS, HTML
 In addition, it was intended to make sure that a "game" experience, granted to the authenticated user, would not be trivial or repetitive, obviously considering the prototypical nature of the product created and the limited number of contents entered in the database. The given structural footprint, which is extremely modular and reusable, allows in any way the possibility of enrichment and extension of the product rather easily and quickly.
 
 ## Portal web Structure
-- **HomePage**: is the page through which the user can learn what all the macrocategories and related categories are, log in or register, and eventually start playing;
+- **HomePage**: is the page through which the user can learn what all the macrocategories and related categories are, log in or register, and eventually start playing:
   <div align='center'>
     <img src="./portal_pages/Homepage.png" alt="Homepage" style="width:50%; max-width:400px;">
   </div>
-- **Registration page**: is the page through which the user can register for the portal, a check on the data entered and on the robustness of the password will also be carried out for the new user;
+- **Registration page**: is the page through which the user can register for the portal, a check on the data entered and on the robustness of the password will also be carried out for the new user:
   <div align='center'>
     <img src="./portal_pages/signup.png" alt="Registration Page" style="width:50%; max-width:400px;">
   </div>
-- **Page shown to unauthenticated user**: page shown to the unauthenticated user when they try to start the game, contains a number of example images for each macrocategory;
+- **Page shown to unauthenticated user**: page shown to the unauthenticated user when they try to start the game, contains a number of example images for each macrocategory:
   <div align='center'>
     <img src="./portal_pages/Non-authenticated-user.png" alt="Page shown to unauthenticated user" style="width:50%; max-width:400px;">
   </div>
-- **Page shown to authenticated user**: page shown to the authenticated user when they try to start the game to choose the macrocategory on which to receive questions;
+- **Page shown to authenticated user**: page shown to the authenticated user when they try to start the game to choose the macrocategory on which to receive questions:
   <div align='center'>
     <img src="./portal_pages/chose_macrocategory.png" alt="Page shown to authenticated user to choose the macrocategory" style="width:50%; max-width:400px;">
   </div>
-- **Play page**: page containing the question and the alternatives from which the user can choose;
+- **Play page**: page containing the question and the alternatives from which the user can choose:
   <div align='center'>
     <img src="./portal_pages/play.png" alt="Play page" style="width:50%; max-width:400px;">
   </div>
-- **Results page**: page containing the summary of correct and incorrect answers given by the user;
+- **Results page**: page containing the summary of correct and incorrect answers given by the user:
   <div align='center'>
     <img src="./portal_pages/check_the_answers.png" alt="Results page" style="width:50%; max-width:400px;">
   </div>
