@@ -11,7 +11,7 @@ For the development of the system we set as a goal:
 All these aspects were achieved through the application of JavaScript, CSS, HTML and PHP content.
 In addition, it was intended to make sure that a "game" experience, granted to the authenticated user, would not be trivial or repetitive, obviously considering the prototypical nature of the product created and the limited number of contents entered in the database. The given structural footprint, which is extremely modular and reusable, allows in any way the possibility of enrichment and extension of the product rather easily and quickly.
 
-## Portal web Structure
+## Portal Web Structure
 - **HomePage**: is the page through which the user can learn what all the macrocategories and related categories are, log in or register, and eventually start playing:
   <div align='center'>
     <img src="./portal_pages/Homepage.png" alt="Homepage" style="width:50%; max-width:400px;">
