@@ -37,11 +37,11 @@ In addition, it was intended to make sure that a "game" experience, granted to t
     <img src="./portal_pages/check_the_answers.png" alt="Results page" style="width:50%; max-width:400px;">
   </div>
 
-For more details about the pages created, their description, their functionality, and their interconnections, please refer to the [report](Relazione progetto TSW.pdf).
+For more details about the pages created, their description, their functionality, and their interconnections, please refer to the [report](Relazione_progetto_TSW.pdf).
 
 ## Repository Structure
 - `gruppo04/`: contains all the codes and images for the different pages of the portal web, all the images used for the quizzes and stored into the designed database and also the scripts for the database creation;
-- `Relazione progetto TWS.pdf`: is the report containing details about the pages created, their description, their functionality, and their interconnections.
+- `Relazione_progetto_TWS.pdf`: is the report containing details about the pages created, their description, their functionality, and their interconnections.
 
 ## Feedback
 For any feedback, questions or inquiries, please contact the project maintainers listed in the Contributors section.
